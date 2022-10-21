@@ -3,7 +3,7 @@ if computer-amount=1 or computer amount=2:
 elif computer-amount>=3 and computer-amount <=10:
     base-fee=100 and additional-fee=10
 elif computer amount > 10:
-    base-fee=500 and additional-fee-10
+    base-fee=500 and additional-fee=10
 if service-time is not in business hours:
     base-fee *2
 if customer drop off and pick up:
